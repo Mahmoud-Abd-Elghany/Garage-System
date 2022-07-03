@@ -16,5 +16,6 @@ Microcontroller, PIR Sensors, Servo Motors, LCD
 Timer (PMW & Counter), LCD, DIO.
 
 ## Simulation
-Proteus 8++
-![alt text](sim.jpg)
+**Proteus 8**
+<br/>
+![Proteus simulation](https://github.com/Mahmoud-Abd-Elghany/Garage-System/blob/master/sim.png)
